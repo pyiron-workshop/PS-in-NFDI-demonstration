@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+dependencies:
+  - python =3.11
+  - pyiron_workflow
+  - jupyterlab
+  - pyiron_base
+  - pyiron_contrib
