@@ -6,3 +6,33 @@ dependencies:
   - jupyterlab
   - pyiron_base
   - pyiron_contrib
+  - atomicrex =1.0.3
+  - runner =1.2
+  - pyiron_potentialfit
+  - pyiron_gpl
+  - pyiron-data
+  - nbgitpuller =1.2.0
+  - python-ace =0.2.8
+  - calphy =1.2.12
+  - iprpy-data
+  - sphinxdft >=2.7.0
+  - sphinxdft-data
+  - nglview
+  - numpy >=1.26.0
+  - pyscal3
+  - jupyterlab
+  - jupyter-book
+  - sqsgenerator
+  - pymatgen
+  - ipykernel
+  - ipympl
+  - ipywidgets
+  - matplotlib-base =3.8.0
+  - pydantic >=2.3.0
+  - randspg
+  - mp-api =0.37.5
+  - typing-extensions =4.8.0
+  - mpi4py
+  - pylammpsmpi =0.2.13
+
+
