@@ -1,0 +1,4 @@
+,Config,Filename,Model,Name,Species,Citations
+6,"['pair_style pace\n', 'pair_coeff * * AlLi-6gen-18May.yace\n']",['ace/AlLi-6gen-18May.yace'],ACE,AlLi-ACE,"['Al', 'Li']",{}
+7,"['pair_style pace\n', 'pair_coeff * * AlLi-6gen-18May.yace\n']",['ace/AlLi-6gen-18May.yace'],ACE,Al-ACE,"['Al']",{}
+8,"['pair_style pace\n', 'pair_coeff * * AlLi-6gen-18May.yace\n']",['ace/AlLi-6gen-18May.yace'],ACE,Li-ACE,"[Li']",{}
