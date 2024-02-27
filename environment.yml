@@ -31,6 +31,8 @@ dependencies:
   - mp-api =0.37.5
   - typing-extensions =4.8.0
   - mpi4py
+  - lammps =2023.03.28=*openmpi*
+  - openmpi
   - pylammpsmpi =0.2.13
 
 
