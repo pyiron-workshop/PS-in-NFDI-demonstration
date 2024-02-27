@@ -34,5 +34,8 @@ dependencies:
   - lammps =2023.03.28=*openmpi*
   - openmpi
   - pylammpsmpi =0.2.13
+  - pip:
+    - tensorflow <=2.7
+
 
 
