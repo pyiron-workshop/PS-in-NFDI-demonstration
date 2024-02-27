@@ -26,7 +26,6 @@ dependencies:
   - pyscal3
   - sqsgenerator
   - pymatgen
-  - matplotlib-base =3.8.0
   - pydantic >=2.3.0
   - randspg
   - mp-api =0.37.5
