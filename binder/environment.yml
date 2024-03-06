@@ -7,13 +7,13 @@ dependencies:
   - ipykernel
   - ipympl
   - ipywidgets
-  - pyiron
-  - pyiron_base
-  - pyiron_atomistics
-  - pyiron_contrib
-  - pyiron_potentialfit
-  - pyiron_gpl
-  - pyiron-data
+  - pyiron =0.5.2
+  - pyiron_base =0.7.9
+  - pyiron_atomistics =0.4.17
+  - pyiron_contrib =0.1.15
+  - pyiron_potentialfit =0.1.0
+  - pyiron_gpl =0.0.4
+  - pyiron-data =0.0.29
   - pyiron_workflow =0.4.2
   - nbgitpuller =1.2.0
   - python-ace =0.2.8
