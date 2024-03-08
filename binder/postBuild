@@ -1,6 +1,7 @@
 #install tensorpot and python-ace
-git clone https://github.com/ICAMS/TensorPotential
+git clone --depth 1 --single-branch https://github.com/ICAMS/TensorPotential
 cd TensorPotential
 python setup.py install
 cd ..
 
+cp -ra ${HOME} /srv/conda/envs/notebook/workshop-repo-cache
