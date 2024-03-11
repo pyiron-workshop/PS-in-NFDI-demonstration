@@ -35,6 +35,7 @@ dependencies:
   - openmpi
   - pylammpsmpi =0.2.13
   - jupyterlab-h5web
+  - pyarrow
   - pip:
     - tensorflow
 
