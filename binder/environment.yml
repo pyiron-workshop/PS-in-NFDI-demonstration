@@ -17,7 +17,7 @@ dependencies:
   - pyiron_workflow =0.4.2
   - nbgitpuller =1.2.0
   - python-ace =0.2.8
-  - calphy =1.3.6
+  - calphy =1.3.7
   - iprpy-data
   - sphinxdft >=2.7.0
   - sphinxdft-data
@@ -36,6 +36,7 @@ dependencies:
   - pylammpsmpi =0.2.13
   - jupyterlab-h5web
   - pyarrow
+  - pyxtal
   - pip:
     - tensorflow
 
