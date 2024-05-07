@@ -4,8 +4,8 @@ dependencies:
   - python =3.11
   #- jupyterlab
   #- jupyter-book
-  - ipykernel
-  #- ipympl
+  #- ipykernel
+  - ipympl
   #- ipywidgets
   #- pyiron =0.5.2
   - pyiron_base =0.7.9
