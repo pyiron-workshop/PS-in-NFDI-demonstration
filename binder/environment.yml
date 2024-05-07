@@ -2,7 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - python =3.11
-  - jupyterlab
+  - jupyterlab =4.1.6
   #- jupyter-book
   #- ipykernel
   #- ipympl
