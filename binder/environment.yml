@@ -2,22 +2,22 @@ channels:
   - conda-forge
 dependencies:
   - python =3.11
-  - jupyterlab
-  #- jupyter-book
-  #- ipykernel
-  #- ipympl
-  #- ipywidgets
-  #- pyiron =0.5.2
-  #- pyiron_base =0.7.9
-  #- pyiron_atomistics =0.4.17
-  #- pyiron_contrib =0.1.15
-  #- pyiron-data =0.0.29
-  #- pyiron_workflow =0.4.2
-  #- nbgitpuller =1.2.0
-  #- iprpy-data
-  #- nglview
-  #- numpy >=1.26.0
-  #- pyarrow
+  - jupyterlab =4.1.6
+  - jupyter-book
+  - ipykernel
+  - ipympl
+  - ipywidgets
+  - pyiron =0.5.2
+  - pyiron_base =0.7.9
+  - pyiron_atomistics =0.4.17
+  - pyiron_contrib =0.1.15
+  - pyiron-data =0.0.29
+  - pyiron_workflow =0.4.2
+  - nbgitpuller =1.2.0
+  - iprpy-data
+  - nglview
+  - numpy >=1.26.0
+  - pyarrow
 
 
 
