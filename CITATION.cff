@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: >-
+  Webinar on FAIR Data in Physical Sciences in NFDI: Creating and running automated workflows 
+  for material science simulations
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sarath
+    family-names: Menon
+    email: s.menon@mpie.de
+    affiliation: Max Planck Institute for Sustainable Materials
+    orcid: 'https://orcid.org/0000-0002-6776-1213'
+repository-code: 'https://github.com/pyiron-workshop/PS-in-NFDI-demonstration'
+url: 'https://events.hifis.net/event/1503/'
+license: GPL-3.0-or-later
